@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with enve https://maurycyliebner.github.io -->
+
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080">
+ <rect height="1080" fill="#ffffff" width="1920"/>
+ <g transform="translate(5.21925 22.6168)">
+  <g>
+   <animateTransform values="384.656 0;384.656 0;683.894 0;290.71 0;737.826 0;715.209 0;1435.47 0;944.276 0" keyTimes="0;0.01;0.025;0.04;0.055;0.08;0.615;1" dur="8.33333s" calcMode="spline" attributeName="transform" keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 0.882022 0.882022" type="translate" repeatCount="indefinite"/>
+   <g>
+    <animateTransform values="0 327.561;0 327.561;0 320.602;0 590.264;0 612.88;0 339.739;0 190.121;0 518.153" keyTimes="0;0.01;0.025;0.04;0.055;0.08;0.615;1" dur="8.33333s" calcMode="spline" attributeName="transform" keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 0.882022 0.882022" type="translate" repeatCount="indefinite"/>
+    <g transform="rotate(0)">
+     <g>
+      <animateTransform values="1.19 1;1.19 1;1.4 1" keyTimes="0;0.955;1" dur="8.33333s" calcMode="spline" attributeName="transform" keySplines="0 0 1 1;0 0 1 1" type="scale" repeatCount="indefinite"/>
+      <g>
+       <animateTransform values="1 1.05;1 1.05;1 1.2" keyTimes="0;0.955;1" dur="8.33333s" calcMode="spline" attributeName="transform" keySplines="0 0 1 1;0 0 1 1" type="scale" repeatCount="indefinite"/>
+       <g transform="skewX(0) skewY(0)">
+        <g opacity="1" transform="translate(-5.21925 -22.6168)">
+         <ellipse rx="66.2264" cx="0" ry="68.7736" stroke="#000000" fill="#000000" cy="0" stroke-width="1"/>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0 0)">
+  <g transform="translate(365.943 344.727)">
+   <g transform="rotate(0)">
+    <g transform="scale(1 1)">
+     <g transform="skewX(0) skewY(0)">
+      <g opacity="1" transform="translate(0 0)">
+       <g text-anchor="start" stroke="none" font-size="72" stroke-width="1" font-family="Arial">
+        <animate values="#ffffff;#ffffff;#dbfefe;#b6fcfd;#92fafc;#6df8fa;#49f6f9;#24f4f8;#00f2f6;#01f0f5;#03eff4;#04edf2;#06ebf1;#07e9f0;#09e7ee;#0ae5ed;#0ce3ec;#0de1ea;#0fdfe9;#10dee8;#12dce6;#14dae5;#15d8e4;#17d6e2;#18d4e1;#1ad2e0;#1bd0df;#1dcfdd;#1ecddc;#20cbdb;#21c9d9;#23c7d8;#25c5d7;#26c3d5;#28c1d4;#29bfd3;#2bbed1;#2cbcd0;#2ebacf;#2fb8cd;#31b6cc;#32b4cb;#34b2c9;#35b0c8;#37afc7;#39adc5;#3aabc4;#3ca9c3;#3da7c1;#3fa5c0;#40a3bf;#42a1be;#439fbc;#459ebb;#469cba;#489ab8;#4a98b7;#4b96b6;#4d94b4;#4e92b3;#5090b2;#518fb0;#538daf;#548bae;#5689ac;#5787ab;#5985aa;#5a83a8;#5c81a7;#5e80a6;#5f7ea4;#617ca3;#627aa2;#6478a0;#65769f;#67749e;#68729d;#6a709b;#6b6f9a;#6d6d99;#6f6b97;#706996;#726795;#736593;#756392;#766191;#78608f;#795e8e;#7b5c8d;#7c5a8b;#7e588a;#805689;#815487;#835286;#845085;#864f83;#874d82;#894b81;#8a4980;#8c477e;#8d457d;#8f437c;#90417a;#924079;#943e78;#953c76;#973a75;#983874;#9a3672;#9b3471;#9d3270;#9e306e;#a02f6d;#a12d6c;#a32b6a;#a52969;#a62768;#a82566;#a92365;#ab2164;#ac2062;#ae1e61;#af1c60;#b11a5f;#b2185d;#b4165c;#b5145b;#b71259;#b91058;#ba0f57;#bc0d55;#bd0b54;#bf0953;#c00751;#c20550;#c3034f;#c5014d;#c6004c;#c8004b;#ca0049;#cb0048;#cd0047;#ce0045;#d00044;#d10043;#d30041;#d40040;#d6003f;#d7003e;#d9003c;#da003b;#dc003a;#de0038;#df0037;#e10036;#e20034;#e40033;#e50032;#e70030;#e8002f;#ea002e;#eb002c;#ed002b;#ef002a;#f00028;#f20027;#f30026;#f50024;#f60023;#f80022;#f90020;#fb001f;#fc001e;#fe001d;#ff001b;#ff001a;#ff0019;#ff0017;#ff0016;#ff0015;#ff0013;#ff0012;#ff0011;#ff000f;#ff000e;#ff000d;#ff000b;#ff000a;#ff0009;#ff0007;#ff0006;#ff0005;#ff0003;#ff0002;#ff0001;#ff0000;#ff0000" keyTimes="0;0.01;0.015;0.02;0.025;0.03;0.035;0.04;0.045;0.05;0.055;0.06;0.065;0.07;0.075;0.08;0.085;0.09;0.095;0.1;0.105;0.11;0.115;0.12;0.125;0.13;0.135;0.14;0.145;0.15;0.155;0.16;0.165;0.17;0.175;0.18;0.185;0.19;0.195;0.2;0.205;0.21;0.215;0.22;0.225;0.23;0.235;0.24;0.245;0.25;0.255;0.26;0.265;0.27;0.275;0.28;0.285;0.29;0.295;0.3;0.305;0.31;0.315;0.32;0.325;0.33;0.335;0.34;0.345;0.35;0.355;0.36;0.365;0.37;0.375;0.38;0.385;0.39;0.395;0.4;0.405;0.41;0.415;0.42;0.425;0.43;0.435;0.44;0.445;0.45;0.455;0.46;0.465;0.47;0.475;0.48;0.485;0.49;0.495;0.5;0.505;0.51;0.515;0.52;0.525;0.53;0.535;0.54;0.545;0.55;0.555;0.56;0.565;0.57;0.575;0.58;0.585;0.59;0.595;0.6;0.605;0.61;0.615;0.62;0.625;0.63;0.635;0.64;0.645;0.65;0.655;0.66;0.665;0.67;0.675;0.68;0.685;0.69;0.695;0.7;0.705;0.71;0.715;0.72;0.725;0.73;0.735;0.74;0.745;0.75;0.755;0.76;0.765;0.77;0.775;0.78;0.785;0.79;0.795;0.8;0.805;0.81;0.815;0.82;0.825;0.83;0.835;0.84;0.845;0.85;0.855;0.86;0.865;0.87;0.875;0.88;0.885;0.89;0.895;0.9;0.905;0.91;0.915;0.92;0.925;0.93;0.935;0.94;0.945;0.95;0.955;0.96;0.965;0.97;0.975;0.98;1" dur="8.33333s" calcMode="linear" attributeName="fill" repeatCount="indefinite"/>
+        <text letter-spacing="0em" word-spacing="0em">
+         <tspan x="0">Hello World</tspan>
+        </text>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g>
+  <animateTransform values="0 0;0 0;-15.6578 0;-15.6578 0" keyTimes="0;0.035;0.92;1" dur="8.33333s" calcMode="spline" attributeName="transform" keySplines="0 0 1 1;0 0 1 1;0 0 1 1" type="translate" repeatCount="indefinite"/>
+  <g>
+   <animateTransform values="0 0;0 0;0 -20.877;0 -20.877" keyTimes="0;0.035;0.92;1" dur="8.33333s" calcMode="spline" attributeName="transform" keySplines="0 0 1 1;0 0 1 1;0 0 1 1" type="translate" repeatCount="indefinite"/>
+   <g>
+    <animateTransform values="273.736 0;273.736 0;786.963 0;974.856 0;270.257 0;566.014 0;1201.02 0;1265.39 0;1148.89 0;1135.99 0;1123.81 0;1165.57 0;1165.57 0" keyTimes="0;0.035;0.045;0.055;0.06;0.395;0.45;0.54;0.855;0.9;0.92;0.95;1" dur="8.33333s" calcMode="spline" attributeName="transform" keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="translate" repeatCount="indefinite"/>
+    <g>
+     <animateTransform values="0 308.193;0 308.193;0 315.152;0 308.193;0 302.973;0 581.334;0 593.512;0 562.196;0 575.926;0 586.449;0 577.751;0 617.765;0 617.765" keyTimes="0;0.035;0.045;0.055;0.06;0.395;0.45;0.54;0.855;0.9;0.92;0.95;1" dur="8.33333s" calcMode="spline" attributeName="transform" keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1;0 0 1 1" type="translate" repeatCount="indefinite"/>
+     <g transform="rotate(0)">
+      <g transform="scale(1 1)">
+       <g transform="scale(1 1)">
+        <g transform="skewX(0) skewY(0)">
+         <g opacity="1">
+          <animateTransform values="0 0;0 0;15.6578 0;15.6578 0" keyTimes="0;0.035;0.92;1" dur="8.33333s" calcMode="spline" attributeName="transform" keySplines="0 0 1 1;0 0 1 1;0 0 1 1" type="translate" repeatCount="indefinite"/>
+          <g>
+           <animateTransform values="0 0;0 0;0 20.877;0 20.877" keyTimes="0;0.035;0.92;1" dur="8.33333s" calcMode="spline" attributeName="transform" keySplines="0 0 1 1;0 0 1 1;0 0 1 1" type="translate" repeatCount="indefinite"/>
+           <ellipse rx="69.5901" cx="0" ry="81.7683" stroke="#000000" cy="0" stroke-width="1">
+            <animate values="#0000ff;#0000ff;#800080;#ff0000;#89804c;#13ff98;#1658e4;#1a59e4;#1d59e4;#215ae4;#245be4;#285ce4;#2b5de4;#2f5ee4;#325fe4;#3660e4;#3961e4;#3d62e4;#4063e4;#4464e4;#4765e4;#4a66e4;#4e67e4;#5168e4;#5569e4;#586ae4;#5c6be4;#5f6ce4;#636de4;#666ee4;#6a6ee4;#6d6fe4;#7170e4;#7471e4;#7872e4;#7b73e4;#7f74e4;#8275e4;#8676e4;#8977e4;#8d78e4;#9079e4;#947ae4;#977be4;#9b7ce4;#9e7de4;#a27ee4;#a57fe4;#a880e4;#ac81e4;#af82e4;#b382e4;#b683e4;#ba84e4;#bd85e4;#c186e4;#c487e4;#c888e4;#cb89e4;#cf8ae4;#d28be4;#d68ce4;#d98de4;#dd8ee4;#e08fe4;#e490e4;#e791e4;#eb92e4;#ee93e4;#f294e4;#f595e4;#f996e4;#fc96e4;#ff97e4;#f798e4;#ee99e4;#e59ae4;#dc9be4;#d39ce4;#cb9de4;#c29ee4;#b99fe4;#b0a0e4;#a7a1e4;#9ea2e4;#96a2e4;#8da2e4;#84a2e4;#7ba2e4;#72a2e4;#69a2e4;#61a2e4;#58a2e4;#4fa2e4;#46a2e4;#3da2e4;#34a2e4;#2ca2e4;#23a2e4;#1aa2e4;#11a2e4;#08a2e4;#00a2e4;#00a2e4" keyTimes="0;0.035;0.04;0.045;0.05;0.055;0.06;0.065;0.07;0.075;0.08;0.085;0.09;0.095;0.1;0.105;0.11;0.115;0.12;0.125;0.13;0.135;0.14;0.145;0.15;0.155;0.16;0.165;0.17;0.175;0.18;0.185;0.19;0.195;0.2;0.205;0.21;0.215;0.22;0.225;0.23;0.235;0.24;0.245;0.25;0.255;0.26;0.265;0.27;0.275;0.28;0.285;0.29;0.295;0.3;0.305;0.31;0.315;0.32;0.325;0.33;0.335;0.34;0.345;0.35;0.355;0.36;0.365;0.37;0.375;0.38;0.385;0.39;0.395;0.4;0.405;0.41;0.415;0.42;0.425;0.43;0.435;0.44;0.445;0.45;0.455;0.46;0.465;0.47;0.475;0.48;0.485;0.49;0.495;0.5;0.505;0.51;0.515;0.52;0.525;0.53;0.535;0.54;1" dur="8.33333s" calcMode="linear" attributeName="fill" repeatCount="indefinite"/>
+           </ellipse>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(320.709 544.799)">
+  <g transform="translate(0 0)">
+   <g transform="rotate(0)">
+    <g transform="scale(1 1)">
+     <g transform="skewX(0) skewY(0)">
+      <g opacity="1" transform="translate(-320.709 -544.799)">
+       <path stroke="#000000" fill="none" stroke-width="1" d="M320.709 544.799C-nan(ind) -nan(ind) -nan(ind) -nan(ind) 320.709 544.799Z"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <g transform="translate(0 0)">
+  <g transform="translate(150.214 786.624)">
+   <g transform="rotate(0)">
+    <g transform="scale(1 1)">
+     <g transform="skewX(0) skewY(0)">
+      <g opacity="1" transform="translate(0 0)">
+       <g text-anchor="start" stroke="none" fill="#000000" font-size="72" stroke-width="1" font-family="Arial">
+        <text letter-spacing="0em" word-spacing="0em">
+         <tspan x="0">Welcome to game theory</tspan>
+        </text>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs/>
+</svg>

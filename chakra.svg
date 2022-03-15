@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with enve https://maurycyliebner.github.io -->
+
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+ <rect fill="#ffffff" height="1080" width="1920"/>
+ <g transform="translate(70.3036 0)">
+  <g transform="translate(0 104.321)">
+   <g transform="translate(201.593 0)">
+    <g transform="translate(0 56.4461)">
+     <g>
+      <animateTransform type="rotate" values="360;360;369.5;629.6;8902.1" repeatCount="indefinite" keySplines="0 0 1 1;0 0 1 1;0 0 1 1;0 0 0.917723 0.917723" calcMode="spline" dur="8.33333s" keyTimes="0;0.055;0.1;0.15;1" attributeName="transform"/>
+      <g transform="scale(1 1)">
+       <g transform="scale(1 1)">
+        <g transform="skewX(0) skewY(0)">
+         <g transform="translate(-70.3036 0)" opacity="1">
+          <g transform="translate(0 -104.321)">
+           <path fill="#e5ffd5" stroke="#ff31ff" d="M99.4687 160.266L99.6953 141.858L75.8396 167.168L83.0935 150.248L51.3677 164.503L64.5445 151.647L29.7787 152.675L46.8723 145.84L14.3592 133.486L32.7673 133.713L7.45669 109.857L24.3768 117.111L10.1221 85.3856L22.9783 98.5624L21.9496 63.7965L28.7846 80.8902L41.1385 48.377L40.9118 66.7851L64.7675 41.4745L57.5136 58.3947L89.2394 44.1399L76.0626 56.9962L110.828 55.9674L93.7348 62.8025L126.248 75.1563L107.84 74.9297L133.15 98.7854L116.23 91.5315L130.485 123.257L117.629 110.08L118.658 144.846L111.823 127.753L99.4687 160.266Z" stroke-width="2.38125"/>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs/>
+</svg>
